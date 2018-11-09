@@ -1,0 +1,14 @@
+canvas {
+  /*border: 1px solid #ff0000;*/
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+};
+
+* {
+  padding: 0;
+  margin: 0;
+};
